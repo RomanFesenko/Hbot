@@ -1,0 +1,54 @@
+bot{
+	name=Bot__2_2;
+	accuracy=1.0;
+	aggressive=0.0;
+}
+
+bot{
+	name=Bot__2_1;
+	accuracy=1.0;
+	aggressive=0.0;
+}
+
+bot{
+	name=Bot__2_0;
+	accuracy=1.0;
+	aggressive=0.0;
+}
+
+bot{
+	name=Bot__1_2;
+	accuracy=0.5;
+	aggressive=0.0;
+}
+
+bot{
+	name=Bot__1_1;
+	accuracy=0.5;
+	aggressive=0.0;
+}
+
+bot{
+	name=Bot__1_0;
+	accuracy=0.5;
+	aggressive=0.0;
+}
+
+bot{
+	name=Bot__0_2;
+	accuracy=0.0;
+	aggressive=0.0;
+}
+
+bot{
+	name=Bot__0_1;
+	accuracy=0.0;
+	aggressive=0.0;
+}
+
+bot{
+	name=Bot__0_0;
+	accuracy=0.0;
+	aggressive=0.0;
+}
+
