@@ -1,6 +1,6 @@
-HBot - mode for Half-Life 1
-Readme File
-13/10/2020
+HBot - mode for Half-Life 1.
+Readme File.
+13/10/2020.
 
 ******************************************************
 I.   Mode description.
